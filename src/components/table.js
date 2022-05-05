@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Button from "./button"
 import Moment from "react-moment";
+import 'moment/locale/es'
 
 const Table =({
                   list,
